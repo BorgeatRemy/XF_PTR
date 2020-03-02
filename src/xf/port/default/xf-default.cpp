@@ -11,6 +11,8 @@
 using interface::XFResourceFactory;
 using interface::XFTimeoutManager;
 
+bool XF::_bInitialized = false;
+
 void XF::initialize(int timeInterval, int argc, char * argv[])
 {
 	if(!_bInitialized)

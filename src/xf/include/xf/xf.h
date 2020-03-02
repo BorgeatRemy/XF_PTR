@@ -131,7 +131,7 @@ public:
 protected:
     static bool _bInitialized;			///< Changes from false to true after calling method initialize(int). Used to handle multiple calls to init(int).
 };
-bool XF::_bInitialized = false;
+
 #endif  // __cplusplus
 
 //
