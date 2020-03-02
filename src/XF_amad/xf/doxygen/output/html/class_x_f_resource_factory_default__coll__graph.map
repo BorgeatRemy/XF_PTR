@@ -1,0 +1,7 @@
+<map id="XFResourceFactoryDefault" name="XFResourceFactoryDefault">
+<area shape="rect" id="node1" title="Default implementation of the XF resource factory." alt="" coords="61,593,287,759"/>
+<area shape="rect" id="node2" href="$classinterface_1_1_x_f_resource_factory.html" title="Responsible to create and return XF resources." alt="" coords="5,336,212,501"/>
+<area shape="rect" id="node3" href="$class_x_f_dispatcher_default.html" title="A dispatcher implementation which can be used without an OS." alt="" coords="236,307,424,531"/>
+<area shape="rect" id="node4" href="$classinterface_1_1_x_f_dispatcher.html" title="Interface for the XF dispatcher providing the event processing loop." alt="" coords="153,5,325,244"/>
+<area shape="rect" id="node5" href="$classinterface_1_1_x_f_mutex.html" title="Mutex interface needed by the XF to access a mutex." alt="" coords="349,49,489,200"/>
+</map>

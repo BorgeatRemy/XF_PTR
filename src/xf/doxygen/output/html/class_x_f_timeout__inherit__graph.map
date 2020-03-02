@@ -1,0 +1,4 @@
+<map id="XFTimeout" name="XFTimeout">
+<area shape="rect" id="node1" title="Used by the TimeoutManager to create and handle a timeout." alt="" coords="5,204,184,325"/>
+<area shape="rect" id="node2" href="$class_x_f_event.html" title="Base class for all types of events and timeouts." alt="" coords="27,5,162,156"/>
+</map>

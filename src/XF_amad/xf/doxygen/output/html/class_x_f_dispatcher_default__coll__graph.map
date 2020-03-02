@@ -1,0 +1,5 @@
+<map id="XFDispatcherDefault" name="XFDispatcherDefault">
+<area shape="rect" id="node1" title="A dispatcher implementation which can be used without an OS." alt="" coords="87,307,275,531"/>
+<area shape="rect" id="node2" href="$classinterface_1_1_x_f_dispatcher.html" title="Interface for the XF dispatcher providing the event processing loop." alt="" coords="5,5,177,244"/>
+<area shape="rect" id="node3" href="$classinterface_1_1_x_f_mutex.html" title="Mutex interface needed by the XF to access a mutex." alt="" coords="201,49,341,200"/>
+</map>

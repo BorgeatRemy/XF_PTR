@@ -1,0 +1,5 @@
+<map id="interface::XFResourceFactory" name="interface::XFResourceFactory">
+<area shape="rect" id="node1" title="Responsible to create and return XF resources." alt="" coords="135,5,341,171"/>
+<area shape="rect" id="node2" href="$class_x_f_resource_factory_default.html" title="Default implementation of the XF resource factory." alt="" coords="5,219,231,384"/>
+<area shape="rect" id="node3" href="$class_x_f_resource_factory_port.html" title="XFResourceFactoryPort implementation for the IDF Qt port." alt="" coords="255,219,461,384"/>
+</map>

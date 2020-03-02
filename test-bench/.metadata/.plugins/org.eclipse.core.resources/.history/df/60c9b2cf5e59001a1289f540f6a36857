@@ -1,0 +1,41 @@
+#include <config/xf-config.h>
+
+#if (USE_XF_EVENT_QUEUE_DEFAULT_IDF_IMPLEMENTATION != 0)
+
+#include <assert.h>
+#include "eventqueue-default.h"
+
+// TODO: Implement code for XFMutexDefault class
+XFEventQueueDefault::XFEventQueueDefault()
+{
+
+}
+
+XFEventQueueDefault::~XFEventQueueDefault()
+{
+
+}
+
+bool XFEventQueueDefault::empty() const
+{
+	return this->_queue.empty();
+}
+bool XFEventQueueDefault::pend()
+{
+
+}
+virtual const XFEvent * XFEventQueueDefault::front()
+{
+	return this->_queue.front();
+}
+void XFEventQueueDefault::pop()
+{
+	this->_queue.pop();
+}
+bool XFEventQueueDefault::push(const XFEvent * pEvent)
+{
+	return this->push(pEvent);
+}
+
+
+#endif // USE_XF_EVENT_QUEUE_DEFAULT_IDF_IMPLEMENTATION

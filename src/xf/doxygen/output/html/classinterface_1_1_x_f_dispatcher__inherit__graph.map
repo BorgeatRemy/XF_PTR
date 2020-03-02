@@ -1,0 +1,5 @@
+<map id="interface::XFDispatcher" name="interface::XFDispatcher">
+<area shape="rect" id="node1" title="Interface for the XF dispatcher providing the event processing loop." alt="" coords="149,5,321,244"/>
+<area shape="rect" id="node2" href="$class_x_f_dispatcher_active_default.html" title="A dispatcher implementation which may be executed using an internal thread." alt="" coords="5,292,232,545"/>
+<area shape="rect" id="node3" href="$class_x_f_dispatcher_default.html" title="A dispatcher implementation which can be used without an OS." alt="" coords="257,299,445,538"/>
+</map>

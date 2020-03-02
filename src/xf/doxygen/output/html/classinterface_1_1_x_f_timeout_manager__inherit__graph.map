@@ -1,0 +1,4 @@
+<map id="interface::XFTimeoutManager" name="interface::XFTimeoutManager">
+<area shape="rect" id="node1" title="Interface for TimerManager classes (and some few &#39;tick&#39; stuff already provided)." alt="" coords="14,5,223,215"/>
+<area shape="rect" id="node2" href="$class_x_f_timeout_manager_default.html" title="Default implementation of the XF TimeoutManager." alt="" coords="5,263,232,472"/>
+</map>

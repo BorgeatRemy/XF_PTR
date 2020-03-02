@@ -1,0 +1,3 @@
+<map id="interface::XFMutex" name="interface::XFMutex">
+<area shape="rect" id="node1" title="Mutex interface needed by the XF to access a mutex." alt="" coords="5,5,145,156"/>
+</map>

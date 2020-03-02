@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['_5fbdeleteafterconsume_194',['_bDeleteAfterConsume',['../class_x_f_custom_event.html#a76b68e7d0b30c5362a0616e437a5e249',1,'XFCustomEvent']]],
+  ['_5fbexecuting_195',['_bExecuting',['../class_x_f_dispatcher_active_default.html#ac0a8d015e5e43edad31aecd1715317f1',1,'XFDispatcherActiveDefault::_bExecuting()'],['../class_x_f_dispatcher_default.html#a64a7ba1d66dfe9d28b7e30cb3e9314cb',1,'XFDispatcherDefault::_bExecuting()']]],
+  ['_5fbinitialized_196',['_bInitialized',['../class_x_f.html#a21257b2677b4a7b23604b6f80cdcde70',1,'XF']]],
+  ['_5fevents_197',['_events',['../class_x_f_dispatcher_active_default.html#adf95fe6507f9612b55d6475e6ba28b09',1,'XFDispatcherActiveDefault::_events()'],['../class_x_f_dispatcher_default.html#a3d5d1129500664078391ad772164fac1',1,'XFDispatcherDefault::_events()']]],
+  ['_5feventtype_198',['_eventType',['../class_x_f_event.html#a42e8271656f8948dd24b2998a022e159',1,'XFEvent']]],
+  ['_5fhasowndispatcher_199',['_hasOwnDispatcher',['../class_x_f_behavior.html#ac9afe42391fbc5bbb51cbaef5eba0220',1,'XFBehavior']]],
+  ['_5fid_200',['_id',['../class_x_f_event.html#a05d1045ac5f16d50d1d265e7b812b634',1,'XFEvent']]],
+  ['_5finterval_201',['_interval',['../class_x_f_timeout.html#a28b03dba8dd82e9d9aecfbee822a11b3',1,'XFTimeout']]],
+  ['_5fmaindispatcher_202',['_mainDispatcher',['../class_x_f_resource_factory_default.html#a31ef50d179b231115c98a0a44936aefd',1,'XFResourceFactoryDefault']]],
+  ['_5fmutex_203',['_mutex',['../class_x_f_event_queue_port.html#abe68a0d22dbc4f761ed10f20fff70793',1,'XFEventQueuePort']]],
+  ['_5fnewevents_204',['_newEvents',['../class_x_f_event_queue_port.html#aecd926a9b2cd8f0e6a5874be02171461',1,'XFEventQueuePort']]],
+  ['_5fpbehavior_205',['_pBehavior',['../class_x_f_event.html#a6dd8cfede12953bf22f71cb4cb8546d6',1,'XFEvent']]],
+  ['_5fpcurrentevent_206',['_pCurrentEvent',['../class_x_f_behavior.html#a4a2f7e37b4b259b458199797ca7d9b0a',1,'XFBehavior']]],
+  ['_5fpdispatcher_207',['_pDispatcher',['../class_x_f_behavior.html#a1a2f84f287427e0b6a1f6d815d52031d',1,'XFBehavior']]],
+  ['_5fpmutex_208',['_pMutex',['../class_x_f_dispatcher_default.html#a23180de9130ea9bd7c2b26537edd7444',1,'XFDispatcherDefault::_pMutex()'],['../class_x_f_timeout_manager_default.html#a978b78fd50a73e898dfb21d180354549',1,'XFTimeoutManagerDefault::_pMutex()']]],
+  ['_5fpthread_209',['_pThread',['../class_x_f_dispatcher_active_default.html#ac95ea2add7c85cfb0fb4b21d21c5d4b2',1,'XFDispatcherActiveDefault']]],
+  ['_5fqueue_210',['_queue',['../class_x_f_event_queue_port.html#a8f42bb7bc877dccea89c7d147f64d5b3',1,'XFEventQueuePort']]],
+  ['_5frelticks_211',['_relTicks',['../class_x_f_timeout.html#abda72ce0831b9a8f73ae3d9e28b428cc',1,'XFTimeout']]],
+  ['_5fstatus_212',['_status',['../class_x_f_event_status.html#a29418714fb04900ed94474db4a068d88',1,'XFEventStatus']]],
+  ['_5ftickinterval_213',['_tickInterval',['../classinterface_1_1_x_f_timeout_manager.html#a66763b06e65005a420d2dcb747db8847',1,'interface::XFTimeoutManager']]],
+  ['_5ftimeouts_214',['_timeouts',['../class_x_f_timeout_manager_default.html#a04014d94c4e788a99f8dbbddda40c0ab',1,'XFTimeoutManagerDefault']]]
+];

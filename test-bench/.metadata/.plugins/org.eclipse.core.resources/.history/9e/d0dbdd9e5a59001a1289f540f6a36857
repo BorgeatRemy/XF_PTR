@@ -1,0 +1,32 @@
+#include <config/xf-config.h>
+
+#if (USE_XF_MUTEX_DEFAULT_IDF_IMPLEMENTATION != 0)
+
+#include "critical/critical.h"	// Provided by the platform used
+#include "mutex-default.h"
+
+// TODO: Implement code for XFMutexDefault class
+XFEventQueueDefault::XFEventQueueDefault()
+{
+
+}
+
+bool XFEventQueueDefault::empty() const
+{
+
+}
+
+virtual const XFEvent * XFEventQueueDefault::front()
+{
+
+}
+void XFEventQueueDefault::pop()
+{
+
+}
+bool XFEventQueueDefault::push(const XFEvent * pEvent)
+{
+
+}
+
+#endif // USE_XF_MUTEX_DEFAULT_IDF_IMPLEMENTATION

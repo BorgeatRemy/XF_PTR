@@ -1,0 +1,7 @@
+<map id="XFEvent" name="XFEvent">
+<area shape="rect" id="node1" title="Base class for all types of events and timeouts." alt="" coords="355,5,489,156"/>
+<area shape="rect" id="node2" href="$class_x_f_custom_event.html" title="Base class for project related events." alt="" coords="5,211,207,318"/>
+<area shape="rect" id="node3" href="$class_x_f_initial_event.html" title="Initial event to start a behavior." alt="" coords="231,219,410,311"/>
+<area shape="rect" id="node4" href="$class_x_f_null_transition.html" title="State machine transition without trigger." alt="" coords="434,219,613,311"/>
+<area shape="rect" id="node5" href="$class_x_f_timeout.html" title="Used by the TimeoutManager to create and handle a timeout." alt="" coords="637,204,815,325"/>
+</map>

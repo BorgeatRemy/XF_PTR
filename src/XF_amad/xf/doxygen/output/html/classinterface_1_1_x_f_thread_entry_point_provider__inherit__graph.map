@@ -1,0 +1,4 @@
+<map id="interface::XFThreadEntryPointProvider" name="interface::XFThreadEntryPointProvider">
+<area shape="rect" id="node1" title="Interface to be implemented by the class providing the thread entry method." alt="" coords="5,5,240,112"/>
+<area shape="rect" id="node2" href="$class_x_f_dispatcher_active_default.html" title="A dispatcher implementation which may be executed using an internal thread." alt="" coords="9,160,236,413"/>
+</map>
