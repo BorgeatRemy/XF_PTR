@@ -1,0 +1,56 @@
+#include <assert.h>
+#include <config/xf-config.h>
+
+#if (USE_XF_DEFAULT_IMPLEMENTATION != 0)
+
+#include "xf/interface/timeoutmanager.h"
+#include "xf/interface/resourcefactory.h"
+#include "xf/interface/dispatcher.h"
+#include "xf/xf.h"
+
+using interface::XFResourceFactory;
+using interface::XFTimeoutManager;
+
+void XF::initialize(int timeInterval, int argc, char * argv[])
+{
+	if(!_bInitialized)
+	{
+        // Create and initialize TimeoutManager
+        interface::XFTimeoutManager::getInstance()->initialize(timeInterval);
+        // Start it
+        interface::XFTimeoutManager::getInstance()->start();
+
+        _bInitialized = true;
+	}
+}
+
+
+int XF::execOnce()
+{
+	XFResourceFactory::getInstance()->getDefaultDispatcher()->execute();
+}
+
+int XF::exec()
+{
+	XFResourceFactory::getInstance()->getDefaultDispatcher()->start();
+}
+
+void XF::initialize(int timeInterval, int argc, char* argv[]) {
+}
+
+int XF_exec()
+{
+	XF::exec();
+}
+
+int XF_execOnce()
+{
+	XF::execOnce();
+}
+
+void XF_initialize(int timeInterval)
+{
+	XF::initialize(timeInterval);
+}
+
+#endif // USE_XF_DEFAULT_IMPLEMENTATION

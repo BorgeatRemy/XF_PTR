@@ -1,0 +1,6 @@
+17:58:49 **** Incremental Build of configuration Debug for project ide-sw4stm32-test1-idf ****
+make -j4 all 
+make: Nothing to be done for 'all'.
+
+17:58:50 Build Finished (took 668ms)
+
